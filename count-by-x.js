@@ -23,4 +23,4 @@ function countBy(x, n) {
 }
 
 // i has to start with 1, not 0 
-// each iteration we push to 'z' array the number(x) and it will loop thru (n) number of times
+// each iteration we push to 'z' array the number(x) and it will loop thru (n) number of times.
